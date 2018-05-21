@@ -21,17 +21,17 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 
 > **Homeworks**
 
-№	|Tasks							|Descriptions																					|Exercises																												|Progress																														
-:--:|-------------------------------|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:---------------:
-1	|Databases Introduction			|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-2	|Data Definition and Data Types	|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-3	|Basic CRUD						|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-4	|Built-In Functions				|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-5	|Data Aggregation				|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-6	|Table Relations				|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-7	|Subqueries and Joins			|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-8	|Functions and Procedures		|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
-9	|Triggers and Transactions		|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+№	|Tasks							|Descriptions																						|Exercises																												|Progress																														
+:--:|-------------------------------|:----------------------------------------------------------------------------------------====-----:|:---------------------------------------------------------------------------------------------------------------------:|:---------------:
+1	|Databases Introduction			|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+2	|Data Definition and Data Types	|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+3	|Basic CRUD						|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+4	|Built-In Functions				|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+5	|Data Aggregation				|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+6	|Table Relations				|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+7	|Subqueries and Joins			|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+8	|Functions and Procedures		|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+9	|Triggers and Transactions		|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
 
 > **Exams**
 
