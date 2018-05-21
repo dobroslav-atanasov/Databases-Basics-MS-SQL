@@ -7,10 +7,33 @@
 SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions.
 
 ## Course content:
+- Data Definition and Types
+- Basic CRUD (Create, Read, Update and Delete)
+- Built-In Functions
+- Data Aggregation
+- Table Relations
+- Subqueries and Joins
+- Functions, Procedures, Triggers and Transactions
 
 ## Repository content:
 
+> **[Databases]()**
+
 > **Homeworks**
+
+Tasks							|Descriptions																					|Exercises																												|Progress																														
+--------------------------------|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:---------------:
+Databases Introduction			|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Data Definition and Data Types	|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Basic CRUD						|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Built-In Functions				|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Data Aggregation				|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Table Relations					|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Subqueries and Joins			|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Functions and Procedures		|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
+Triggers and Transactions		|[Description]																					|[Exercises]																											|![Progress](http://progressed.io/bar/0
 
 > **Exams**
 
+Exams						|Date				|Descriptions																															|Solutions
+----------------------------|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------:
