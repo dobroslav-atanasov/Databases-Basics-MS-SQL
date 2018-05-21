@@ -22,7 +22,7 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 > **Homeworks**
 
 №	|Tasks							|Descriptions																						|Exercises																												|Progress																														
-:--:|-------------------------------|:----------------------------------------------------------------------------------------====-----:|:---------------------------------------------------------------------------------------------------------------------:|:---------------:
+:--:|-------------------------------|:-------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:---------------:
 1	|Databases Introduction			|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
 2	|Data Definition and Data Types	|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
 3	|Basic CRUD						|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
