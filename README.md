@@ -21,10 +21,10 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 
 > **Homeworks**
 
-№	|Tasks							|Descriptions																						|Exercises																																		|Progress																														
-:--:|-------------------------------|:-------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:
-1	|Databases Introduction			|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/01.IntroductionToDatabases/01.IntroductionToDatabases)	|![Progress](http://progressed.io/bar/100?title=completed)
-2	|Data Definition and Data Types	|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
+№	|Tasks							|Descriptions																						|Exercises																																			|Progress																														
+:--:|-------------------------------|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:
+1	|Databases Introduction			|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/01.IntroductionToDatabases/01.IntroductionToDatabases)		|![Progress](http://progressed.io/bar/100?title=completed)
+2	|Data Definition and Data Types	|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/02.DataDefinitionAndDataTypes/02.DataDefinitionAndDataTypes)	|![Progress](http://progressed.io/bar/100?title=completed)
 3	|Basic CRUD						|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
 4	|Built-In Functions				|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
 5	|Data Aggregation				|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises]																											|![Progress](http://progressed.io/bar/0)
