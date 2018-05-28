@@ -17,7 +17,7 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 
 ## Repository content:
 
-> **[Databases]()**
+> **[Databases](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Databases)**
 
 > **Homeworks**
 
