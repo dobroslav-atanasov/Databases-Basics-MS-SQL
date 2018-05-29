@@ -91,6 +91,78 @@
           <AssociatedConnUserName />
           <FullPath>13.Find5BestPaidEmployees.sql</FullPath>
         </FileNode>
+        <FileNode Name="14.FindAllEmployeesExceptMarketing.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14.FindAllEmployeesExceptMarketing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.SortEmployeesTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15.SortEmployeesTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.CreateViewEmployeesWithSalaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16.CreateViewEmployeesWithSalaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.CreateViewEmployeesWithJobTitles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17.CreateViewEmployeesWithJobTitles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.DistinctJobTitles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18.DistinctJobTitles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.FindFirst10StartedProjects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19.FindFirst10StartedProjects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20.Last7HiredEmployees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20.Last7HiredEmployees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21.IncreaseSalaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>21.IncreaseSalaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22.AllMountainPeaks.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22.AllMountainPeaks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23.BiggestCountriesByPopulation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23.BiggestCountriesByPopulation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24.CountriesAndCurrencyEuroNotEuro.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>24.CountriesAndCurrencyEuroNotEuro.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25.AllDiabloCharacters.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25.AllDiabloCharacters.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
