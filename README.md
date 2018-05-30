@@ -37,3 +37,6 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 
 Exams						|Date				|Descriptions																															|Solutions
 ----------------------------|:-----------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------:
+Washing Machine Service		|24 April 2017		|
+Report Service				|22 October 2017	|
+Rent a Car					|03 January 2018	|
