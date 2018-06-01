@@ -1,5 +1,5 @@
-  SELECT T.TownID,
-         T.Name
+  SELECT t.TownID,
+         t.Name
     FROM Towns AS t
    WHERE t.Name NOT LIKE '[RBD]%'
-ORDER BY T.Name
+ORDER BY t.Name
