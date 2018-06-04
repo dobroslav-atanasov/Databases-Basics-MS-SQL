@@ -8,7 +8,7 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 
 ## Course content:
 - Data Definition and Types
-- Basic CRUD (Create, Retrive, Update and Delete)
+- Basic CRUD (Create, Read, Update and Delete)
 - Built-In Functions
 - Data Aggregation
 - Table Relations
