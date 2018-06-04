@@ -10,7 +10,7 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 - Data Definition and Types
 - Basic CRUD (Create, Read, Update and Delete)
 - Built-In Functions
-- Data Aggregation
+- Data Aggregation (Group By, Min, Max, Avg, Count, Sum)
 - Table Relations
 - Subqueries and Joins
 - Functions, Procedures, Triggers and Transactions
