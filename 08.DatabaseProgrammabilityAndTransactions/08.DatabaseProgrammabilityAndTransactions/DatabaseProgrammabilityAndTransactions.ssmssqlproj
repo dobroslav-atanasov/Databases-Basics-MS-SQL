@@ -103,6 +103,54 @@
           <AssociatedConnUserName />
           <FullPath>14.CreateTableLogs.sql</FullPath>
         </FileNode>
+        <FileNode Name="15.CreateTableEmails.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15.CreateTableEmails.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.DepositMoney.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16.DepositMoney.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.WithdrawMoneyProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17.WithdrawMoneyProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.MoneyTransfer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18.MoneyTransfer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19.Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20.MassiveShopping.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20.MassiveShopping.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21.EmployeesWithThreeProjects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>21.EmployeesWithThreeProjects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22.DeleteEmployees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22.DeleteEmployees.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
