@@ -31,7 +31,7 @@ SoftUni course Database Basics MS SQL - May 2018: All tasks with their solutions
 6	|Table Relations							|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/06.TableRelations/06.TableRelations)													|![Progress](http://progressed.io/bar/100?title=completed)
 7	|Subqueries and Joins						|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/07.JoinsSubqueriesAndCTEIndices/07.JoinsSubqueriesAndCTEIndices)						|![Progress](http://progressed.io/bar/100?title=completed)
 8	|Database Programmability and Transactions 	|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/08.DatabaseProgrammabilityAndTransactions/08.DatabaseProgrammabilityAndTransactions)	|![Progress](http://progressed.io/bar/100?title=completed)
-9	|Additional Exercises						|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/09.AdditionalExercises/09.AdditionalExercises)										|![Progress](http://progressed.io/bar/60)
+9	|Additional Exercises						|[Description](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/Resources)	|[Exercises](https://github.com/dobroslav-atanasov/Database-Basics-MS-SQL/tree/master/09.AdditionalExercises/09.AdditionalExercises)										|![Progress](http://progressed.io/bar/70)
 
 > **Exams**
 
