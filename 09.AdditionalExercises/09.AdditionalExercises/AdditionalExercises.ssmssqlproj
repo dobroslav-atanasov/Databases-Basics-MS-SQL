@@ -85,6 +85,12 @@
           <AssociatedConnUserName />
           <FullPath>11.CountOfCountriesByCurrency.sql</FullPath>
         </FileNode>
+        <FileNode Name="12.PopulationAndAreaByContinent.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12.PopulationAndAreaByContinent.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
