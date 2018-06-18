@@ -1,6 +1,6 @@
   SELECT c.FirstName,
-		 c.LastName,
-		 c.Phone
+         c.LastName,
+         c.Phone
     FROM Clients c
 ORDER BY c.LastName,
-	     c.ClientId
+         c.ClientId

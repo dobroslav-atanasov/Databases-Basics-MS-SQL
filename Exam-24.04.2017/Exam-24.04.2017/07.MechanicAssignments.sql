@@ -1,9 +1,9 @@
     SELECT m.FirstName + ' ' + m.LastName AS [Mechanic],
-		   j.Status,
-		   j.IssueDate
-	  FROM Mechanics m
+           j.Status,
+           j.IssueDate
+      FROM Mechanics m
 INNER JOIN Jobs j
-		ON j.MechanicId = m.MechanicId
+        ON j.MechanicId = m.MechanicId
   ORDER BY m.MechanicId,
-		   j.IssueDate,
-		   j.JobId
+           j.IssueDate,
+           j.JobId
