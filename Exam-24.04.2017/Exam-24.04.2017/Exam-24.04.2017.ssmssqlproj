@@ -133,6 +133,12 @@
           <AssociatedConnUserName />
           <FullPath>19.DetectDelivery.sql</FullPath>
         </FileNode>
+        <FileNode Name="20.VendorPreference.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20.VendorPreference.sql</FullPath>
+        </FileNode>
         <FileNode Name="Dataset.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:RUMELA-PC\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>RUMELA-PC\SQLEXPRESS</AssociatedConnSrvName>
